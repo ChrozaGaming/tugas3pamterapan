@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Style milik app, dipakai Manifest -->
+    <style name="Theme.Tugas3PAMTerapan" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Biar Compose yang atur system bars -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>
